@@ -9,5 +9,10 @@
       <label>The minimum amount of desktops</label>
       <default>1</default>
     </entry>
+
+    <entry name="addToLeft" type="bool">
+      <label>Should an extra window be added to left</label>
+      <default>true</default>
+    </entry>
   </group>
 </kcfg>
